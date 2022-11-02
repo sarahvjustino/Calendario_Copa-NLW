@@ -18,5 +18,3 @@ O projeto ainda está em desenvolvimento e terá atualizações para possíveis 
 ## 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
-
-[⬆ Voltar ao topo](#Calendario da Copa - NLW Copa)<br>
