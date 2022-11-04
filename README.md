@@ -21,7 +21,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
 </p>
 
-Você pode visualizar projeto completo através [DESSE LINK](https://explorer-lab-drab-six.vercel.app/)
+Você pode visualizar projeto completo através [DESSE LINK](https://sarahvjustino.github.io/Calendario_Copa-NLW/)
 
 ## 🚀 Tecnologias
 
