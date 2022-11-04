@@ -1,8 +1,27 @@
-# Calendario da Copa - NLW Copa
+<h1 align="center"> NWL #10 Copa </h1>
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<p align="center">
+Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+</p>
 
-> O projeto é uma página estatica de um calendário com alguns jogos da copa do mundo 2022.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="calendario da copa" src=".github/preview.png" width="100%">
+</p>
+
+Você pode visualizar projeto completo através [DESSE LINK](https://explorer-lab-drab-six.vercel.app/)
 
 ## 🚀 Tecnologias
 
@@ -10,11 +29,20 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
+- Git e Github
 
-### Ajustes e melhorias
+## 💻 Projeto
 
-O projeto ainda está em desenvolvimento e terá atualizações para possíveis melhorias.
+O Calendário da Copa é um projeto que mostra os jogos da Copa 2022.
 
-## 📝 Licença
+## 🔖 Layout
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/Kis9hfZcMF0VNnGogje6sh/Calend%C3%A1rio-de-Jogos-(Community)?node-id=0%3A1>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
